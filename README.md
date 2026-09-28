@@ -1,3 +1,5 @@
 # Vaska
 
-Webbplats, support och integritetspolicy för Vaska för Mac.
+Vaska for Mac has moved to **https://kynne.se/vaska/**.
+
+The pages here only redirect there. Support: support@kynne.se
